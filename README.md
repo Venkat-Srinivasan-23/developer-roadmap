@@ -149,16 +149,3 @@ We welcome contributions to enhance the project. To contribute:
 In a graphical form, the entire lifetime of a PR looks like
 
 ![image](https://github.com/tensorflow/tensorflow/assets/52792999/3eea4ca5-daa0-4570-b0b5-2a2b03a724a3)
-
-Please ensure that you follow the [contributing guidelines](CONTRIBUTING.md).
-
-## **License**
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
-## **Acknowledgments**
-- Thanks to the developers of **OpenCV** and **face_recognition** library.
-- Special thanks to the contributors who helped improve this project.
-
----
-
-You can customize this README by adding more specific details as per your project’s needs.
